@@ -1,6 +1,6 @@
-# Content Security
+# Content Test
 
-## Paper
+## Legal Issue
 
 [Word]https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
@@ -16,18 +16,26 @@
 
 [Credentials][Manipulation]Constrained R-CNN： A general image manipulation detection model. ICME, 2020. [https://github.com/HuizhouLi/Constrained-R-CNN]
 
-[Quality Assessment][Image][NRVQA]https://github.com/buyizhiyou/NRVQA
+## Quality Issue
 
-[Quality Assessment][Image][DL]H. Talebi, and et al. NIMA: Neural Image Assessment. TIP, 2018. [https://github.com/truskovskiyk/nima.pytorch]
+### Subjective
 
-[Quality Assessment][Video]https://github.com/Tencent/DVQA
+[Image]https://github.com/buyizhiyou/NRVQA
 
-[Quality Assessment][Video]https://github.com/open-webrtc-toolkit/QoSTestFramework
+[Image]H. Talebi, and et al. NIMA: Neural Image Assessment. TIP, 2018. 
+[https://github.com/truskovskiyk/nima.pytorch]
 
-[Quality Assessment][Doc]https://github.com/edx/ease
+[Video]https://github.com/Tencent/DVQA
 
-[Anomaly Detection][Review]R. Chalapathy, and et al. Deep learning for anomaly detection: A survey. arXiv:1901.03407, 2019.
+[Video]https://github.com/open-webrtc-toolkit/QoSTestFramework
 
-[Anomaly Detection][AspectRatio]R. Sakurai, and et al. Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571. [https://github.com/ronekko/aspect_ratio_restorer]
+[Document]https://github.com/edx/ease
+
+### Objective
+
+[Anomaly Detection][AspectRatio]R. Sakurai, and et al. 
+Restoring Aspect Ratio Distortion of Natural Images With Convolutional Neural Network. 
+IEEE Transactions on Industrial Informatics, 2018, 14(8):563-571. 
+[https://github.com/ronekko/aspect_ratio_restorer]
 
 

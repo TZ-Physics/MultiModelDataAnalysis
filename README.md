@@ -4,9 +4,9 @@
 
 # Machine Learning
 
-# Control&Planning&Decision
+# Control&Planning&Decision Algorithm
 
-# Simulation
+# Simulation Algorithm
 
 # Computer Vision
 

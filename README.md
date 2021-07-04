@@ -1,22 +1,31 @@
-# Multimedia/MultiModal Big Data Analysis
+# Multimedia/MultiModal Big Data Analysis (MMBDA)
 
-## Data Mining
+******
 
-## Optimization Algorithm
+## Signal Processing
+
+## Optimization Algorithms
 
 ## Machine Learning
 
-## Control&Planning&Decision Algorithm
+## Control&Planning&Decision Algorithms
 
-## Simulation Algorithm
+## Simulation Algorithms
+
+******
 
 ## Computer Vision
 
 ## Natural Language Process
 
-## Audio
+## Audio Process
 
-## Time Series
+## Time Series Process
 
-## Multimedia/MultiModal Data Analysis
+## MultiModal Data Analysis
 
+## Data Mining
+
+******
+
+## Applicaitons

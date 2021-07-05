@@ -14,18 +14,18 @@
 
 ******
 
-## Computer Vision
+## Computer Vision (CV)
 
-## Natural Language Process
+## Natural Language Processing (NLP)
 
-## Audio Process
+## Speech Processing (SP)
 
-## Time Series Process
+## Time Series Processing (TSP)
 
-## MultiModal Data Analysis
-
-## Data Mining
+## MultiModal Data Analysis (MMDA)
 
 ******
+
+## Software & Data Mining
 
 ## Applicaitons

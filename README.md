@@ -1,4 +1,4 @@
-# Multimedia/MultiModal Big Data Analysis (MMBDA)
+# MultiModal Big Data Analysis (MMBDA)
 
 ******
 

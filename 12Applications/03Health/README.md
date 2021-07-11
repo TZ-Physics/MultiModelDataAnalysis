@@ -2,6 +2,8 @@
 
 ## Journal
 
-（JBHI）IEEE Journal of Biomedical and Health Informatics
+IEEE Journal of Biomedical and Health Informatics （JBHI）
 
-（NPJ DM）Nature Partner Journal - Digital Medicine
+Nature Partner Journal - Digital Medicine （NPJ DM）
+
+IEEE Transactions on Medical Imaging （TMI）
